@@ -1,0 +1,6 @@
+export const AT_POST = {
+    DELETE:"DELETE_POST",
+    CREATE:"CREATE_POST",
+    READ_POST:"READ_POST",
+    READ_ALL_POST:"READ_ALL_POST",
+}
